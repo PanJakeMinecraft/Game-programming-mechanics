@@ -1,2 +1,2 @@
 # Game-programming-mechanics
-Basic game mechanics in c# programming language (for unity game engine)
+This folder contsins basic game mechanics in c# programming language (for unity game engine)
